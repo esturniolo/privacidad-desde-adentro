@@ -15,9 +15,9 @@ Si tenés una duda, sugerencia o comentario, podés dejar buscarme en Twitter co
 [![Introducción](https://img.youtube.com/vi/d33KROHXON8/mqdefault.jpg)](https://www.youtube.com/watch?v=d33KROHXON8)
 https://www.youtube.com/watch?v=d33KROHXON8
 
-[Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/master/Introducción/Introducción.key)
-[PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/master/Introducción/Introducción.pdf)
+[Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.key)
+[PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.pdf)
 
 ---
 
-[logo]: https://github.com/futurorandomico/privacidad-desde-adentro/blob/master/resources/header.jpg?raw=true "Logo"
+[logo]: https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/resources/header.jpg?raw=true "Logo"
