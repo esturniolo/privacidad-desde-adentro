@@ -13,10 +13,10 @@ Si tenés una duda, sugerencia o comentario, podés dejar buscarme en Twitter co
 ## Introducción
 
 [![Introducción](https://img.youtube.com/vi/d33KROHXON8/mqdefault.jpg)](https://www.youtube.com/watch?v=d33KROHXON8)
+
 https://www.youtube.com/watch?v=d33KROHXON8
 
-[Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.key)
-[PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.pdf)
+Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.key) | [PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Introducción/Introducción.pdf)
 
 ---
 
