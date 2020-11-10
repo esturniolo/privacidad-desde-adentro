@@ -20,4 +20,12 @@ Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro
 
 ---
 
+## Clase 1
+
+[![Clase 1](https://img.youtube.com/vi/e7rr_J8_YXM/mqdefault.jpg)](https://www.youtube.com/watch?v=e7rr_J8_YXM)
+
+https://www.youtube.com/watch?v=e7rr_J8_YXM
+
+---
+
 [logo]: https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/resources/header.jpg?raw=true "Logo"
