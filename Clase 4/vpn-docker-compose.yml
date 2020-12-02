@@ -1,0 +1,43 @@
+# Completar todos los datos entre < >
+version: "3.7"
+services: 
+  privoxy-vpn:
+    image: binhex/arch-privoxyvpn:latest
+    container_name: privoxy-vpn
+    restart: always
+    dns:
+      - <172.20.0.2>
+    networks:
+      pihole:
+        ipv4_address: <172.20.0.4>
+    cap_add:
+      - NET_ADMIN
+    ports:
+      # privoxy
+      - target: 8118
+        published: 8118
+        protocol: tcp
+    environment:
+      LAN_NETWORK: <LOCALNET>/24
+      VPN_ENABLED: 'true'
+      VPN_CLIENT: openvpn
+      VPN_PROV: custom
+      NAME_SERVERS: <172.20.0.2>
+      ENABLE_SOCKS: 'false'
+      ENABLE_PRIVOXY: 'false'
+      DEBUG: 'false'
+    volumes:
+      - '<~/config>:/config'
+      - '/etc/localtime:/etc/localtime:ro'
+
+  # container-seguro:
+  #   image: unaimagen/cualquiera:latest
+  #   container_name: container-seguro
+  #   network_mode: service:privoxy-vpn
+  #   depends_on:
+  #     - privoxy-vpn
+
+networks:
+  base:
+    name: pihole
+    external: true
