@@ -32,9 +32,7 @@ Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro
 
 ## Clase 2
 
-https://youtu.be/_0-bazLXt9M
-
-[![Clase 1](https://img.youtube.com/vi/_0-bazLXt9M/mqdefault.jpg)](https://www.youtube.com/watch?v=_0-bazLXt9M)
+[![Clase 2](https://img.youtube.com/vi/_0-bazLXt9M/mqdefault.jpg)](https://www.youtube.com/watch?v=_0-bazLXt9M)
 
 https://www.youtube.com/watch?v=_0-bazLXt9M
 
@@ -44,7 +42,7 @@ Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro
 
 ## Clase 2 - Extra #1 - Instalación de DietPi (Paso a paso)
 
-[![Clase 1](https://img.youtube.com/vi/pFg73CjyNfk/mqdefault.jpg)](https://www.youtube.com/watch?v=pFg73CjyNfk)
+[![Clase 2 - Instalación de DietPi](https://img.youtube.com/vi/pFg73CjyNfk/mqdefault.jpg)](https://www.youtube.com/watch?v=pFg73CjyNfk)
 
 https://www.youtube.com/watch?v=pFg73CjyNfk
 
@@ -52,7 +50,7 @@ https://www.youtube.com/watch?v=pFg73CjyNfk
 
 ## Clase 2 - Extra #2 - Instalación de Pi-Hole en Docker (Paso a paso)
 
-[![Clase 1](https://img.youtube.com/vi/futIdbnWWys/mqdefault.jpg)](https://www.youtube.com/watch?v=futIdbnWWys)
+[![Clase 2 - Instalación de Pi-Hole](https://img.youtube.com/vi/futIdbnWWys/mqdefault.jpg)](https://www.youtube.com/watch?v=futIdbnWWys)
 
 https://www.youtube.com/watch?v=futIdbnWWys
 
@@ -60,10 +58,29 @@ https://www.youtube.com/watch?v=futIdbnWWys
 
 ## Clase 2 - Extra #3 - Instalación de cloudflared en Docker (Paso a paso)
 
-[![Clase 1](https://img.youtube.com/vi/4OsD73OUaH0/mqdefault.jpg)](https://www.youtube.com/watch?v=4OsD73OUaH0)
+[![Clase 2 - Instalación de cloudflared](https://img.youtube.com/vi/4OsD73OUaH0/mqdefault.jpg)](https://www.youtube.com/watch?v=4OsD73OUaH0)
 
 https://www.youtube.com/watch?v=4OsD73OUaH0
 
 ---
+
+## Clase 3
+
+[![Clase 3](https://img.youtube.com/vi/KPJKyk0Bong/mqdefault.jpg)](https://www.youtube.com/watch?v=KPJKyk0Bong)
+
+https://www.youtube.com/watch?v=KPJKyk0Bong
+
+Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Clase%203/Clase%203.key) | [PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Clase%203/Clase%203.pdf)
+
+---
+
+## Clase 4
+
+[![Clase 4](https://img.youtube.com/vi/FRbh_7uAafs/mqdefault.jpg)](https://www.youtube.com/watch?v=FRbh_7uAafs)
+
+https://www.youtube.com/watch?v=FRbh_7uAafs
+
+Descargar: [Keynote](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Clase%204/Clase%204.key) | [PDF](https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/Clase%204/Clase%204.pdf)
+
 
 [logo]: https://github.com/futurorandomico/privacidad-desde-adentro/blob/main/resources/header.jpg?raw=true "Logo"
